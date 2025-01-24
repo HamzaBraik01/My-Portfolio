@@ -1,7 +1,5 @@
 # 🌟 **Welcome to My Portfolio**  
 
-![Portfolio Banner](https://via.placeholder.com/1000x300?text=Welcome+to+My+Portfolio)  
-
 > **🚀 Showcasing my journey as a Web Developer!**  
 > Explore my projects, skills, and passion for building amazing things.
 
